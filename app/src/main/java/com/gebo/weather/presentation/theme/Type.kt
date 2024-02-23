@@ -1,4 +1,4 @@
-package com.gebo.weather.ui.theme
+package com.gebo.weather.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

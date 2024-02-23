@@ -1,4 +1,4 @@
-package com.gebo.weather.ui.theme
+package com.gebo.weather.presentation.theme
 
 import android.app.Activity
 import android.os.Build

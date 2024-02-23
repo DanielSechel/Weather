@@ -1,4 +1,4 @@
-package com.gebo.weather.ui.theme
+package com.gebo.weather.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
